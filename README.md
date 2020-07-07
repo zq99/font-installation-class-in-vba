@@ -4,8 +4,8 @@ This is a simple class that can be added to an Excel VBA project, that will hand
 
 ## Setup
 
-Add the fonstall class to the project.
+Add the font install class to a VBA project.
 
-Add the ThisWorkbook module code to your Excel workbook
+The ThisWorkbook module is an example of how to call the class when a Excel VBA project is first opened.
 
 You should change the name of "MyFontFile.ttf" to be the name of your font file.
