@@ -9,3 +9,5 @@ Add the font install class to a VBA project.
 The ThisWorkbook module is an example of how to call the class when a Excel VBA project is first opened.
 
 You should change the name of "MyFontFile.ttf" to be the name of your font file.
+
+The code assumes the font file is in the same directory as the workbook.
